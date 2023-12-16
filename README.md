@@ -1,2 +1,2 @@
 # SQL
-SQL Excercises - Projects
+SQL Excercise 1 Cleanning Data

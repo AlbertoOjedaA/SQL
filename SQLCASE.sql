@@ -1,4 +1,10 @@
 
+-- My Data Analysis Contribution to Swiss Retail Company's Marketing Strategy
+
+-- Embark on a journey through data analysis where I took on the challenge of aiding a leading retail company in Switzerland to gain profound insights into their customer base. 
+-- My role involved deciphering intricate datasets to enhance the company's marketing strategy and foster a deeper understanding of their clientele.
+
+
 -- Create DB
 Create Database Startup
 

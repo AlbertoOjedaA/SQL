@@ -14,7 +14,7 @@
 
 -Welcome to the SQL Mastery Repository!
 
-In this repository, you will find a comprehensive collection of SQL exercises and projects to enhance your skills in working with relational databases. Each exercise or project is accompanied by detailed instructions and questions, all neatly organized within SQL files.
+In this repository, you will find a comprehensive collection of SQL exercises and projects that help me practicing relational databases. Each exercise or project is accompanied by detailed instructions and questions, all neatly organized within SQL files.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>

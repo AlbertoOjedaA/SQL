@@ -3,7 +3,7 @@
 <h3 align="center">SQL: Where SELECTing a Great Time Meets INNER Joy and OUTER Laughter"</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif">
 
-- 🌱 I’m currently learning **SQL Everyday**
+- 🌱 I’m currently mastering **SQL Everyday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
